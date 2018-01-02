@@ -1,0 +1,21 @@
+{
+  "name": "bye-bye-bower",
+  "version": "1.0.0",
+  "description": "An example repository of approach how to migrate away from bower to npm packages",
+  "main": "app.js",
+  "author": "Andrejs Abrickis",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "jquery-datetimepicker": "https://github.com/xdan/datetimepicker/archive/2.5.4.tar.gz",
+    "jquery-ui-dist": "^1.12.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.3.1",
+    "webpack": "^3.10.0"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  }
+}
