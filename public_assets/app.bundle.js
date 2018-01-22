@@ -67,7 +67,7 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-
+// Example of empty applications JS file, necessary for Webpack config's entry file.
 
 /***/ })
 /******/ ]);
