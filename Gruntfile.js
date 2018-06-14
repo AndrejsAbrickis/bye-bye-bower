@@ -6,7 +6,6 @@ module.exports = function (grunt) {
             main: {
                 files: Assets.map((asset) => {
                     return {
-                        flatten: true,
                         src: `./node_modules/${asset}`,
                         dest: `public_assets/3rd-party-assets-grunt/${asset}`
                     }
