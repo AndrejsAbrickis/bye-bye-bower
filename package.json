@@ -10,7 +10,7 @@
     "jquery": "^3.4.0",
     "jquery-datetimepicker": "https://github.com/xdan/datetimepicker/archive/2.5.4.tar.gz",
     "jquery-ui-dist": "^1.12.1",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.13"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^4.3.1",
