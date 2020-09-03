@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "grunt": "^1.0.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-datetimepicker": "https://github.com/xdan/datetimepicker/archive/2.5.4.tar.gz",
     "jquery-ui-dist": "^1.12.1",
     "lodash": "^4.17.15"
